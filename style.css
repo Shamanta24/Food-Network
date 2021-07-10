@@ -11,4 +11,8 @@ body{
     padding: 10px 40px;
     color:whitesmoke;
     font-weight: 700;
-    border-radius:5px;
+    border-radius:15px;
+}
+    h1{
+        font-size: 700px;
+    }
